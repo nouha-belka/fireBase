@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69183191519",
+    "project_id": "my-first-app-619c6",
+    "storage_bucket": "my-first-app-619c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69183191519:android:703d47fd69407c14cc6c6a",
+        "android_client_info": {
+          "package_name": "com.nouha.flutterappforfsake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69183191519-ehei55017fk1d0k2cjpjgpf7jmrirqhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6whSEVsGPA68HVPDc04F-fzl4zkOs784"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69183191519-ehei55017fk1d0k2cjpjgpf7jmrirqhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
